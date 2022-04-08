@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "location", "Location\location.csproj", "{2FC44727-2E9D-4EA5-B628-5DB2BD17F7FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "locationserver", "LocationServer\locationserver.csproj", "{44674428-117C-49B4-BC56-CFA415BA7379}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FC44727-2E9D-4EA5-B628-5DB2BD17F7FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FC44727-2E9D-4EA5-B628-5DB2BD17F7FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FC44727-2E9D-4EA5-B628-5DB2BD17F7FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FC44727-2E9D-4EA5-B628-5DB2BD17F7FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44674428-117C-49B4-BC56-CFA415BA7379}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44674428-117C-49B4-BC56-CFA415BA7379}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44674428-117C-49B4-BC56-CFA415BA7379}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44674428-117C-49B4-BC56-CFA415BA7379}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54037831-FB61-4BE1-8F00-CB06D8D25788}
+	EndGlobalSection
+EndGlobal
